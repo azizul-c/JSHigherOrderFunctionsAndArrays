@@ -1,3 +1,3 @@
 # JavaScript Higher Order Functions & Arrays
 
-Tutorial: https://youtu.be/rRgD1yVwIvE
+My learnings from this tutorial: https://youtu.be/rRgD1yVwIvE
